@@ -3,4 +3,5 @@
 - this is a test
 - feedback
 - more feedback
-- cool new things
+- cool new thing
+- more cool things
