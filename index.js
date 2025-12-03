@@ -1,3 +1,6 @@
-console.log("Hello, world!!!!")
+function doThing() {
+    console.log("Hello, world!!!!")
+    console.log("This is a new change")
+}
 
-console.log("This is a new change")
+doThing()
