@@ -4,3 +4,4 @@ function doThing() {
     return 1 + 2
 }
 
+doThing()
